@@ -8,15 +8,16 @@
 
 ## 👨‍💻 Я — начинающий Data-Scince разработчик
 
-- 🌱 В настоящее время изучаю алгоритмы ML
+- 🌱 В настоящее время изучаю алгоритмы ML и SQL
 - 👯 В будующем планирую изучить Docker 
 - 🔭 Участвовал в Авиахакатоне от МАИ в котором решал кейс от [МТС](https://github.com/constantfear/aviahack2022)
-- 🏦 Сейчас занимаюсь небольшим проектом, который связан с рекомендационными системами
+- 🤖 ТГ бот для рекомендаций Аниме [здесь](https://github.com/constantfear/anime_recomendation)
 
+  
 ## 📞 Связаться со мной:
 
 <!--START_SECTION:links type=connect-->
-<a href="https://vk.com/id196888076"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img alt="Jag_k on VK" src="icons/vk.png" width="32px" height="32px"></picture></a>
-<a href="https://t.me/feelconstantfear"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/telegram.dark.png"><img alt="Jag_k on Telegram" src="icons/telegram.png" width="32px" height="32px"></picture></a>
+<a href="https://vk.com/id196888076"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img alt="VK" src="icons/vk.png" width="32px" height="32px"></picture></a>
+<a href="https://t.me/feelconstantfear"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/telegram.dark.png"><img alt="Telegram" src="icons/telegram.png" width="32px" height="32px"></picture></a>
 <br/>
 <!--END_SECTION:links-->
