@@ -1,30 +1,56 @@
-# Hi there, I'm Ramil Titeev 👋
-## 👨‍💻 I'm a Data Scientist and Python Developer
 
-- 🔭 Now I'm learning DL algorithms
-- 💻 Study Computer Science
-- ⚡ Also intrested in RecSys
-- 🌱 My Data Science projects are [here](https://github.com/constantfear/data-science-portfolio)
+<h1 align="center">Hi there 👋</h1>
 
-## Stats
-### GitHub
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=constantfear&show_icons=true&hide_border=true&count_private=true&theme=dark">
-  <img alt="Constant fear's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=constantfear&show_icons=true&hide_border=true&count_private=true&theme=light">
-</picture>
 
-### LeetCode
-[![LeetCode Stats](https://leetcard.jacoblin.cool/constantfear?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn&extension=activity)
 
-## Languages and Tools:
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+      I'm Ramil Titeev, and I'm interested in Data Science and Python Development. I'm currently learning ML and DL. <br>
+      Open to collaborating.<br><br>
+      My Data Science projects are <a href="https://github.com/constantfear/data-science-portfolio">here</a>
+    </i><br>
+</p>
 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/parakeet/48/sql.png" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+## Tools
+### Programming Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/constantfear)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/constantfear)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/constantfear)
+
+
+### ML/DL
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/constantfear)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/constantfear)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/constantfear)
+
+### Technologies & OS
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/constantfear)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/constantfear)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/constantfear)
+
+
+<details>
+<h2>Stats</h2>
+<p align="center">
+  <h3>GitHub</h3>
+    <a href="https://github.com/constantfear">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=constantfear&theme=transparent" />
+  </a>
+  <a href="https://github.com/constantfear">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=constantfear&theme=transparent" />
+  </a>
+</p>
+
+<h3>LeetCode</h3>
+<a href="https://github.com/constantfear">
+    <img src="https://leetcard.jacoblin.cool/constantfear?theme=unicorn" />
+</a>
+</details>
 
   
-## 📞 Link with me:
+### Contact Me
 
-<!--START_SECTION:links type=connect-->
-<a href="https://vk.com/id196888076"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/vk-circled.png" alt="vk-circled"/></picture></a>
-<a href="https://t.me/r_titeev"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/telegram.dark.png"><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/000000/telegram.png" alt="telegram"/></picture></a>
-
-<!--END_SECTION:links-->
+ [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/constantfear) 
+ [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/r_titeev) 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ramil.titeev@yandex.ru) 
