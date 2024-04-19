@@ -6,9 +6,9 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-      I'm Ramil Titeev, and I'm interested in Data Science and Python Development. I'm currently learning ML and DL. <br>
+      I'm Ramil Titeev, and I'm interested in Deep Learning and Python Development. I'm currently diving into NLP. <br>
       Open to collaborating.<br><br>
-      My Data Science projects are <a href="https://github.com/constantfear/data-science-portfolio">here</a>
+      My Data Science portfolio are <a href="https://github.com/constantfear/data-science-portfolio">here</a>
     </i><br>
 </p>
 
